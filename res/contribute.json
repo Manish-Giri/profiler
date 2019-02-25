@@ -37,7 +37,11 @@
       },
       "urls": {
         "prod": "https://profiler.firefox.com",
+<<<<<<< HEAD
         "stage": "https://main--perf-html.netlify.app/"
+=======
+        "stage": "https://master--perf-html.netlify.com/"
+>>>>>>> 81aa6af7... feat: Add contribute.json to project
       },
       "keywords": [
         "performance",
